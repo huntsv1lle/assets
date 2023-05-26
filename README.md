@@ -1,2 +1,2 @@
-# assets
-this is the assets for all my sites
+# asset
+in this repository you will find all the files that i use for my site
